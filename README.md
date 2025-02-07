@@ -25,6 +25,6 @@ Gradient Boosting Classifier
 Assessing model performance using accuracy, precision, recall, F1-score, and ROC-AUC.
 Model Deployment & GUI Development:
 
-Saving the best-performing model using joblib/pickle.
+Saving the best-performing model.
 Creating an interactive GUI using Tkinter (or another framework) for real-time customer churn predictions.
 This project enables banks to proactively identify at-risk customers and implement targeted retention strategies, ultimately enhancing customer satisfaction and business growth. 
