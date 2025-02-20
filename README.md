@@ -23,25 +23,16 @@ Since churn data is often imbalanced, we used SMOTE (Synthetic Minority Over-sam
 The model identified high-risk customer segments based on factors such as account activity, transaction behavior, and tenure length. By analyzing feature importance, we found that factors like low engagement, high service fees, and credit score changes were strong indicators of churn. These insights helped banks develop targeted retention strategies, reducing churn by 25%.
 
 
-## Usage/Examples
-
-
-
-
-import scipy.stats as st
-
-from sklearn.linear_model import LinearRegression
-
-from sklearn.metrics import r2_score, mean_squared_error
-
-from statsmodels.tsa.seasonal import seasonal_decompose
-
-
-
 ## 🛠 Skills
 Machine Learning & Predictive Modeling
 
 
 ## 🚀 About Me
 Passionate developer always exploring new technologies and building cool projects. I love solving problems, writing clean code, and contributing to open source. Let's connect and create something awesome!
+
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://i-am-tushaar.github.io/Portfolio-Website/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tushar-choudhary-401b1a262/)
+
 
